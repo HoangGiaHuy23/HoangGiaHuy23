@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi My name is Hoang Gia Huy.
 - 👀 I’m interested in coding and web technologies
-- 🌱I'm currently studying at UIT (UITer K16),  learning IT and Japanese. 
+- 🌱 I'm a graduate of UIT (University of Information Technology). I majored in Information Technology and also studied Japanese.
    My future dream is becoming a Fullstack Developer.
 
 # 💻Tech Stack
